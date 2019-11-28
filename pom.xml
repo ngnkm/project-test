@@ -3,7 +3,7 @@
   <groupId>com.edenred</groupId>
   <artifactId>project-test</artifactId>
   <packaging>war</packaging>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.2.1-SNAPSHOT</version>
   <name>project-test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -49,13 +49,7 @@
 		<configuration>
 		</configuration>
 	</plugin>
-	<plugin>            
-  		<groupId>org.apache.maven.plugins</groupId>
-  		<artifactId>maven-war-plugin</artifactId>
-  		<configuration>
-    		<webXml>src\main\webapp\WEB-INF\web.xml</webXml>        
-  		</configuration>
-	</plugin>
+
     </plugins>
   </build>
 </project>
