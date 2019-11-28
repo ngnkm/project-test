@@ -68,12 +68,12 @@
     <repository>
 		<id>github</id>
 		<name>GitHub ngnkm Apache Maven Packages</name>
-		<url>https://maven.pkg.github.com/ngnkm/project-test</url>
+		<url>https://maven.pkg.github.com/ngnkm</url>
 	</repository>
 	<snapshotRepository>
 		<id>githubsnap</id>
 		<name>GitHub ngnkm Apache Maven Packages</name>
-		<url>https://maven.pkg.github.com/ngnkm/project-test</url>
+		<url>https://maven.pkg.github.com/ngnkm</url>
 	</snapshotRepository>
    </distributionManagement>
 </project>
