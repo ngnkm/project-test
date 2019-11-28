@@ -21,7 +21,7 @@
         <tag>HEAD</tag>
     </scm>
   <build>
-    <finalName>project-test-${project.artifactId}</finalName>    
+    <finalName>project-test-${project.version}</finalName>    
 	<plugins>
         <plugin>
             <groupId>external.atlassian.jgitflow</groupId>
