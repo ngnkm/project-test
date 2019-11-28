@@ -3,7 +3,7 @@
   <groupId>com.edenred</groupId>
   <artifactId>project-test</artifactId>
   <packaging>jar</packaging>
-  <version>1.6.0-SNAPSHOT</version>
+  <version>1.5.0-SNAPSHOT</version>
   <name>project-test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
