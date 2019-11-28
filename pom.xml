@@ -3,7 +3,7 @@
   <groupId>com.edenred</groupId>
   <artifactId>project-test</artifactId>
   <packaging>war</packaging>
-  <version>1.2.2-SNAPSHOT</version>
+  <version>1.2.2</version>
   <name>project-test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -18,7 +18,7 @@
         <url>https://github.com/ngnkm/project-test.git</url>
         <connection>scm:git:https://ngnkm:${password}@github.com/ngnkm/${project.artifactId}.git</connection>
         <developerConnection>scm:git:https://ngnkm:${password}@github.com/ngnkm/${project.artifactId}.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.2.2</tag>
     </scm>
   <build>
     <finalName>project-test</finalName>    
