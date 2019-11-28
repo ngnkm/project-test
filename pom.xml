@@ -21,7 +21,7 @@
         <tag>project-test-1.4.0</tag>
     </scm>
   <build>
-    <finalName>project-test</finalName>    
+    <finalName>project-test-${project.artifactId}</finalName>    
 	<plugins>
         <plugin>
             <groupId>external.atlassian.jgitflow</groupId>
